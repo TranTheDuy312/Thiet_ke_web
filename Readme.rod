@@ -1,1 +1,22 @@
+<!DOCTYPE html>
+  <html>
+       <head>
+       <title>giới thiệu bản thân 
+       </title>
+      </head>
+            <body>
+            <h1>GIỚI THIỆU BẢN THÂN</h1> 
+            <p>Tôi tên là:Trần Thế Duy</p>
+            <p>Sinh năm : 2003</p>
+            <p>Tôi học tại trường CĐKTCNNT</p>
+            <p>Lớp CNTT K15B<p>
+            <p>Sở thích:</p>
+            
+            <ol>
+             <li>xem phim</li> 
+             <li>khám phá</li>
+             <li>phượt</li>
+            </ol>
 
+           </body>
+ </html>
